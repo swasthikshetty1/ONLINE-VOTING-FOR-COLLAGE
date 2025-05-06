@@ -76,7 +76,7 @@ Steps to Run
 
 1. Download or Clone the Repository
 
-git clone https://github.com/yourusername/online-voting-system.git](https://github.com/swasthikshetty1/ONLINE-VOTING-FOR-COLLAGE.git
+git clone --  https://github.com/swasthikshetty1/ONLINE-VOTING-FOR-COLLAGE.git
 
 
 2. Move Project to XAMPP Directory
